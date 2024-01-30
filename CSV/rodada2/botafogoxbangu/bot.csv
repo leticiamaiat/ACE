@@ -1,4 +1,4 @@
-Team,Player,Goals,Assists,Tackles,Accurate passes,Ground duels (won),Aerial duels (won),Minutes played,Position,Sofascore rating
+Team,Player,Goals,Assists,Tackles,Accurate passes,Duels_won,Ground duels (won),Aerial duels (won),Minutes played,Position,Sofascore rating
 Botafogo,Júnior Santos,1,0,0,25/28,6,5,1,90,M,8.3
 Botafogo,Kaué Rodrigues Pessanha,0,1,0,22/27,5,4,1,90,M,7.7
 Botafogo,Matías Segovia,0,0,0,26/30,7,7,0,70,F,7.6

@@ -1,4 +1,4 @@
-Team,Player,Goals,Assists,Tackles,Accurate passes,Ground duels (won),Aerial duels (won),Minutes played,Position,Sofascore rating
+Team,Player,Goals,Assists,Tackles,Accurate passes,Duels_won,Ground duels (won),Aerial duels (won),Minutes played,Position,Sofascore rating
 Sampaio Corrêa-RJ,Gabriel Agú,1,0,0,8/9,5,5,0,43,M,7.1
 Sampaio Corrêa-RJ,Hugo Cabral,0,0,0,7/9,6,6,0,90,M,7.0
 Sampaio Corrêa-RJ,Maswel Ananias Silva,1,0,0,3/7,3,3,0,64,F,6.9

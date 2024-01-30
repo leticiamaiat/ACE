@@ -1,4 +1,4 @@
-Team,Player,Goals,Assists,Tackles,Accurate passes,Ground duels (won),Aerial duels (won),Minutes played,Position,Sofascore rating
+Team,Player,Goals,Assists,Tackles,Accurate passes,Duels_won,Ground duels (won),Aerial duels (won),Minutes played,Position,Sofascore rating
 Vasco da Gama,Luca Orellano,1,1,0,35/43,10,9,1,90,M,8.6
 Vasco da Gama,Cauã Paixão,1,0,0,11/19,12,11,1,90,F,7.5
 Vasco da Gama,Felipe Estrella Galeazzi,0,0,0,4/6,6,5,1,18,M,7.4

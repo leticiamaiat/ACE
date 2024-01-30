@@ -1,4 +1,4 @@
-Team,Player,Goals,Assists,Tackles,Accurate passes,Ground_duels_won,Aerial_duels_won,Minutes played,Position,Sofascore rating
+Team,Player,Goals,Assists,Tackles,Accurate passes,Duels_won,Ground_duels_won,Aerial_duels_won,Minutes played,Position,Sofascore rating
 Nova Iguaçu,Carlinhos,1,0,0,4/7,5,3,2,67,F,7.4
 Nova Iguaçu,Bill,0,0,0,11/13,3,3,0,67,M,7.0
 Nova Iguaçu,Albert,0,0,0,16/21,6,6,0,90,M,6.9

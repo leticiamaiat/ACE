@@ -1,4 +1,4 @@
-Team,Player,Goals,Assists,Tackles,Accurate passes,Ground duels (won),Aerial duels (won),Minutes played,Position,Sofascore rating
+Team,Player,Goals,Assists,Tackles,Accurate passes,Duels_won,Ground duels (won),Aerial duels (won),Minutes played,Position,Sofascore rating
 Bangu,Gabriel Leite,0,0,0,34/38,0,0,0,90,G,8.0
 Bangu,Gabriel Saulo,0,0,0,16/20,5,5,0,86,M,7.3
 Bangu,Cleyton,0,0,0,16/21,7,7,0,90,F,7.0
